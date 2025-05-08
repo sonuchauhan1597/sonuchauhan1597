@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Sona Chauhan (@sonuchauhan1597)
+# 👋 Hi there, I’m Sonu Chauhan (@sonuchauhan1597)
 
 Welcome to my GitHub profile! I'm a passionate **Cloud & DevOps Engineer** who loves automating infrastructure, optimizing cloud resources, and building scalable, secure systems.
 
